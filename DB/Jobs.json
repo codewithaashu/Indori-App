@@ -1,0 +1,79 @@
+[
+  {
+    "title": "UI & UX Designer",
+    "company": "Pinterest",
+    "companyLogo":
+      "https://www.citypng.com/public/uploads/preview/-11594919824s9ii7cgcyu.png",
+    "location":"Indore,India",
+    "salary":"25,000-40,000/month",
+    "jobType":"Full Time",
+    "jobLocationType":"Remote",
+    "category":"technology"
+  },
+  {
+    "title": "Sales & Marketing",
+    "company": "Paypal",
+    "companyLogo":
+      "https://cdn-icons-png.flaticon.com/512/174/174861.png",
+    "location":"Bhopal,India",
+    "salary":"15,000-30,000/month",
+    "jobType":"Full Time",
+    "jobLocationType":"Onsite",
+    "category":"marketing"
+  },
+  {
+    "title": "Business Analyst",
+    "company": "Apple",
+    "companyLogo":
+      "https://cdn-icons-png.flaticon.com/512/25/25345.png",
+    "location":"Indore,India",
+    "salary":"45,000-60,000/month",
+    "jobType":"Freelance",
+    "jobLocationType":"Remote",
+    "category":"technology"
+  },
+  {
+    "title": "Web Designer",
+    "company": "Twitter",
+    "companyLogo":
+      "https://cdn-icons-png.flaticon.com/512/5968/5968823.png",
+    "location":"Indore,India",
+    "salary":"65,000-80,000/month",
+    "jobType":"Full Time",
+    "jobLocationType":"Remote",
+    "category":"technology"
+  },
+  {
+    "title": "Graphic Designer",
+    "company": "Apple",
+    "companyLogo":
+      "https://cdn-icons-png.flaticon.com/512/25/25345.png",
+    "location":"Indore,India",
+    "salary":"45,000-60,000/month",
+    "jobType":"Full Time",
+    "jobLocationType":"Onsite",
+    "category":"technology"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Paypal",
+    "companyLogo":
+      "https://cdn-icons-png.flaticon.com/512/174/174861.png",
+    "location":"Indore,India",
+    "salary":"85,000-95,000/month",
+    "jobType":"Full Time",
+    "jobLocationType":"Remote",
+    "category":"technology"
+  },
+  {
+    "title": "Application Developer",
+    "company": "Figma",
+    "companyLogo":
+      "https://cdn-icons-png.flaticon.com/512/5968/5968705.png",
+    "location":"Indore,India",
+    "salary":"95,000-110,000/month",
+    "jobType":"Full Time",
+    "jobLocationType":"Remote",
+    "category":"technology"
+  }
+]
